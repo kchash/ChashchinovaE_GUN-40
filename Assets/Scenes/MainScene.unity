@@ -644,6 +644,18 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300010, guid: 2afa5a1773ca1f84f98c062866a8be55, type: 3}
+--- !u!114 &2007523018 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 521025095770236011, guid: bc2e1bdec6d93484c857f0d6f3dc4521,
+    type: 3}
+  m_PrefabInstance: {fileID: 8260593589654490905}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2da2cdefd6a4269ad707af72143d957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2054408480
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1195,6 +1207,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3715632709494797364, guid: bc2e1bdec6d93484c857f0d6f3dc4521,
+        type: 3}
+      propertyPath: _wheels.Array.data[3]
+      value: 
+      objectReference: {fileID: 2007523018}
     - target: {fileID: 5989335046716825524, guid: bc2e1bdec6d93484c857f0d6f3dc4521,
         type: 3}
       propertyPath: m_Name
