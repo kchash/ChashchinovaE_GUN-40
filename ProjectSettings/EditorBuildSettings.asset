@@ -20,4 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/3DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 0f826bb0aad8745f6823309f71118722,
+      type: 2}
