@@ -152,8 +152,7 @@ namespace Tanks.Interface
 		}
 		
 		private void UpdateIndicator()
-		{
-			_currentPointsText.text = _currentPoints.ToString();
+		{ _currentPointsText.text = _currentPoints.ToString();
 			_sum.text = Sum.ToString();
 			var percent = _currentPoints / _indicatorMaxPoints;
 			_indicatorFill.fillAmount = percent;
