@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6305585475729533825}
   - component: {fileID: 6374568012344727139}
   - component: {fileID: 917970350844747678}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleElement (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -146,7 +146,7 @@ GameObject:
   - component: {fileID: 991085934685862683}
   - component: {fileID: 9206089543826644416}
   - component: {fileID: 226952549344719288}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleElement (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -279,7 +279,7 @@ GameObject:
   - component: {fileID: 2965602210927161697}
   - component: {fileID: 2816056920539838341}
   - component: {fileID: 8522201293582508412}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleElement (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   - component: {fileID: 7001569260147349393}
   - component: {fileID: 4094171810631001398}
   - component: {fileID: 6024189486897815958}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleElement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -541,7 +541,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8266542793009817915}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: VioletBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
