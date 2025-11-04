@@ -23,7 +23,7 @@ MonoBehaviour:
     Text: Impossible!
     Clip: {fileID: 0}
   - Mult: 4
-    Text: GREATE!
+    Text: GREAT!
     Clip: {fileID: 0}
   - Mult: 5
     Text: NONONONO!
